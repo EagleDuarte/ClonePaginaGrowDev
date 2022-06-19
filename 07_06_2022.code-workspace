@@ -1,0 +1,28 @@
+{
+  "folders": [
+	{
+		"path": "..\\07_06_2022"
+	},
+	{
+		"path": "..\\08_06_2022"
+	},
+	{
+		"path": "..\\09_06_2022"
+	},
+	{
+		"path": "..\\História do HTML"
+	},
+	{
+		"path": "..\\Front-End"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\Atividade 03"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Atividade 03"
+  }
+}
